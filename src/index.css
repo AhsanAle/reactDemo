@@ -15,3 +15,25 @@ code {
 .violetStyle {
   color: blueviolet;
 }
+
+html,
+body,
+#root,
+.room {
+  height: 100%;
+  margin: 0;
+  padding: 10px;
+}
+.lit {
+  background-color: beige;
+  color: black;
+}
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.lightOn {
+  background-color: yellow;
+  color: white;
+}
